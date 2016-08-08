@@ -1,2 +1,2 @@
 # JaveWebForHBase
-设计一个web界面操作HBase里面的数据
+design a web to operate the data in HBase. for example, searching the data.
