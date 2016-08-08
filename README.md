@@ -1,0 +1,2 @@
+# JaveWebForHBase
+设计一个web界面操作HBase里面的数据
